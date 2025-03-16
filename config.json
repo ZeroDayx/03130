@@ -12,7 +12,7 @@
   },
   "autosave": true,
   "version": 1,
-  "background": false,
+  "background": true,
   "colors": true,
   "randomx": {
     "init": -1,
